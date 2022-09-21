@@ -69,11 +69,23 @@
     display: flex;
     justify-content: center;
     padding-top: 20px;
+    align-items: center;
     
 
 }
 
 .spring-app {
     width: 40em;
-    padding-top: 20px;
+    padding-left: 50px;
+}
+
+.spring-app-img {
+    height: 20em;
+    width: 40em;
+    border-radius: 8px;
+}
+
+.projects {
+    display: flex;
+    align-items: center;
 }
