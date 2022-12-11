@@ -66,7 +66,7 @@
 }
 
 .source-live-buttons {
-    display: flex;
+    display: grid;
     justify-content: center;
     padding-top: 20px;
     align-items: center;
@@ -88,4 +88,9 @@
 .projects {
     display: flex;
     align-items: center;
+}
+
+.spring-title {
+    margin-left: auto;
+    margin-right: auto;
 }
